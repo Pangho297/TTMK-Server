@@ -4,7 +4,7 @@
 
 ### [땅땅마켓](https://www.ttangttang.ml)
 
-### [Client Repository](https://github.com/codestates/lilakchal-client)
+### [Client Repository](https://github.com/Pangho297/TTMK-client)
 
 우리동네 경매장 땅땅마켓에서  
 여러분들의 중고 물품을 등록해 경매 주최자가 되어보세요!  
